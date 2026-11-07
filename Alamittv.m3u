@@ -14,15 +14,13 @@ https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ekushe ETV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Ekushe ETV
-https://ekusheyserver.com/hls-live/livepkgr/definst/liveevent/livestream3.m3u8#skym3u.dev
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Maasranga TV
 http://116.204.149.16/maasranga/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",BTV
-https://btv.hridoytv-channel.workers.dev/btv.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",BTV News
-https://btv.hridoytv-channel.workers.dev/news.m3u8#skym3u.dev
+http://103.135.253.32:8080/BTV/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",SATV
@@ -51,8 +49,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",GAZI TV
 https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",MY TV
-https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Asian TV
@@ -76,13 +72,9 @@ https://server.zillarbarta.com/zbcatun/video.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Bangla TV
-https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8#skym3u.dev
+http://116.204.149.16/banglatv/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Nagorik" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Nagorik
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Surongo (Movie)" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Surongo (Movie)
-https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv#skym3u.dev
-#EXTINF:-1 tvg-name="Antarjal (Movie)" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Antarjal (Movie)
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4#skym3u.dev
 #EXTINF:-1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="News 21" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",News 21
@@ -91,6 +83,28 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8#fb:M3U_World_4K
 https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Star News
 http://103.135.253.32:8080/Star-News/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Channel 16
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Duronto TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jalsha Bangla BD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Jalsha Bangla BD
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Matribhumi TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ME TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",ME TV
+https://iptvbd.live/metv1080/1080.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Rajdhani TV
+http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 52" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Channel 52
+https://tvsen6.aynaott.com/channel52/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Global Television HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Global Television HD
+http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee Bangla HD
@@ -213,6 +227,8 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8#skym3u.dev
 https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Deen TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Deen TV
 https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Peace TV Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
