@@ -47,8 +47,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",T Sports HD
-http://1716770.3285434280.growthtry.com/live/1Aoen7elp5/IgMJ60tmAa/130714.ts?token=ShJcU0BbQQNHWgEAD1oBWl0AB1EHBwEAB1cHBFVXAgIHAABXVVdXDVEbGBpEF0dcWF1vWQIXXlACUlUGUUgRR0JVRm1aV0EDRwgDCQFUAgkbHBJED1gBQwtTVQ5WXAsDAggMHhFDCl1HAxYLBlIMDgECEhxEUBwVVBAMVgk7V1dHWVdXEQkNTAlVGBpYDWpdXF1RXgIXXkMBQE4VDBdDEAsSc0BSXgZcC2lcV1kGFxUbUllEFFQQBBNYQABRVgEQHRJXXUZdF0scGw4adScXFRtVSEQDWxcIXgxADUcQQBAdEl1BbEEGShFLUVlaBkcbAxIAEkoXCQBJPQFYCwpWUUVZW1xAEVkbVBsYGloMW1BNX0JvFlwAQwtAUwZRUAoQHRJBR1pXQQNHD1ILDgcNWA4EVVFRV1JUCFIDVlABAwNUVQZXBlcFClYbSQ==#skym3u.dev
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",GAZI TV
@@ -88,29 +86,27 @@ http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",ZEE BANGLA
-https://go.skym3u.dev/live/2980/92a77c9a4d4968f3cbbebe782b4acda6466033649fcaad9f2fe0383289c39c9ba68fc3a3b35cda07ec10d7a5d67e7f69aa3d1acde7e95288964e06335e4e87e2af690530f3dd2969e702fee7ba98113d3fde5c0d016b2dd380e4b84c80b1436f20024cc7890a203e2dc7ae0877d0966d4948eb873c0e3945317e0568c6ad.m3u8?s=76be&id=5pni.m3u
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8?edge-cache-token=Expires=1794042027~Starts=1794038427~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=BjqiQ-RddOvsqxmBTKWSqEMQUch-V2vCET56e2JpShX-GutEV9pKq7PMqtpdm4GnxWVdFQ6l3IyFmoVkY8VTAQ
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8#skym3u.dev
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8?edge-cache-token=Expires=1794042027~Starts=1794038427~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=BjqiQ-RddOvsqxmBTKWSqEMQUch-V2vCET56e2JpShX-GutEV9pKq7PMqtpdm4GnxWVdFQ6l3IyFmoVkY8VTAQ
 #EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",COLORS BANGLA
-https://go.skym3u.dev/live/2980/1f5afb86561a1ff806cec404706621e03a1effbac8dee67401d7912b90fd7f945bfa5108fa11dd4a418731cdec5ea2abc0da812fd60c52f8c16cec4c8dc79a5b9bd052d36d19d0fda327e9d4baa8704d06af388996e91fb3d6e69525f2c333315d022d4459d701ed2a5d5c5462ec506126193749f7fbf5cb64c3de.m3u8?s=76be&id=5pni.m3u
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",SONY AATH
-https://go.skym3u.dev/live/2980/df6c6b452fddd2152c0fd4c5c1ffeadac435c50d30f037b134c7498e045ee8c48ac21ee2b10f8e2e1feb2197d3d657400bc64a2a9ef8e109725d81f394533f0cf90b5448c7f4527c49164ee46b2a867812a6f6337519d39b7746cd7e62.m3u8?s=76be&id=5pni.m3u
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1794042027~Starts=1794038427~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=BjqiQ-RddOvsqxmBTKWSqEMQUch-V2vCET56e2JpShX-GutEV9pKq7PMqtpdm4GnxWVdFQ6l3IyFmoVkY8VTAQ
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Jalsha Movies HD
-https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8#skym3u.dev
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Aakaash Aath" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Aakaash Aath
-http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8#skym3u.dev
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8#skym3u.dev
+https://prod-linear-media.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8?edge-cache-token=Expires=1794042027~Starts=1794038427~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=BjqiQ-RddOvsqxmBTKWSqEMQUch-V2vCET56e2JpShX-GutEV9pKq7PMqtpdm4GnxWVdFQ6l3IyFmoVkY8VTAQ
 #EXTINF:-1 tvg-name="Enter10 Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="Sananda Tv" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sananda Tv
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ABC Kids" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ABC Kids
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/537787e477cb491b8cfd57eb8cc37da4/index.m3u8?hdnea=st=1793880572~exp=1793881472~acl=/*~hmac=222ab2d0553a7ec97cce94859c27920f7d151a68724e50654feddf307efb0637#skym3u.dev
-#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ZB CARTOON" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZB CARTOON
 https://server.zillarbarta.com/zbcatun/video.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Cartoon Network HD+" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Cartoon Network HD+
@@ -127,8 +123,6 @@ https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4000625P&coppa=1#skym3u.dev
 #EXTINF:-1 tvg-name="Epic Kids" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Epic Kids
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN800021X7&coppa=1#skym3u.dev
-#EXTINF:-1 tvg-name="TVC Arabic Kids" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",TVC Arabic Kids
-https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Dios Te Ve Kids" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Discovery Family
@@ -145,8 +139,6 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8#skym3u.dev
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="INWILD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",Animal Planet
-http://27.124.71.27/Animal_Planet/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ANIMAL PLANET ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",ANIMAL PLANET ᴴᴰ
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="HISTORY TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",HISTORY TV
@@ -157,8 +149,6 @@ https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist/amg00426-l
 https://wildearth-plex.amagi.tv/master.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="CGTN Docment" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",CGTN Docment
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",Love Nature
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",Discovery
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",National Geographic HD
@@ -200,13 +190,9 @@ https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Deen TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Deen TV
 https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
-http://1716770.3285434280.growthtry.com/live/1Aoen7elp5/IgMJ60tmAa/130714.ts?token=ShJcU0BbQQNHWgEAD1oBWl0AB1EHBwEAB1cHBFVXAgIHAABXVVdXDVEbGBpEF0dcWF1vWQIXXlACUlUGUUgRR0JVRm1aV0EDRwgDCQFUAgkbHBJED1gBQwtTVQ5WXAsDAggMHhFDCl1HAxYLBlIMDgECEhxEUBwVVBAMVgk7V1dHWVdXEQkNTAlVGBpYDWpdXF1RXgIXXkMBQE4VDBdDEAsSc0BSXgZcC2lcV1kGFxUbUllEFFQQBBNYQABRVgEQHRJXXUZdF0scGw4adScXFRtVSEQDWxcIXgxADUcQQBAdEl1BbEEGShFLUVlaBkcbAxIAEkoXCQBJPQFYCwpWUUVZW1xAEVkbVBsYGloMW1BNX0JvFlwAQwtAUwZRUAoQHRJBR1pXQQNHD1ILDgcNWA4EVVFRV1JUCFIDVlABAwNUVQZXBlcFClYbSQ==#skym3u.dev
+http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Star Sports Select 1 HD
-http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Star Sports Select 2
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Star Sports 2
@@ -221,21 +207,7 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8#skym3u.dev
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",SKY SPORTS FOOTBALL
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",TNT Sports 1
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2505/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",TNT Sports 2
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2506/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="beIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",beIN SPORTS 1 HD
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="beIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",beIN SPORTS 3 HD
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6124/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",DAZN 1
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2531/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="ESPN3HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",ESPN3HD
-http://216.106.179.7:8080/ESPN3HD/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="LALIGA (Real Madrid TV)" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",LALIGA (Real Madrid TV)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Football World Cup 2026 (4K)" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Football World Cup 2026 (4K)
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8#skym3u.dev
