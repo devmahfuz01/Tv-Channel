@@ -133,6 +133,10 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8#fb:M3U_World_4K
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HUM SITARAY HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",HUM SITARAY HD
+https://go.skym3u.dev/live/d49c40/8e6b403c58681669c3d3fdf490111da95555acce227c32ea9d3f7d31c4e4cb19ea22e6ec169e99143f0ed1f1b82eb19335567c82180f4a17db37633313a3f7c5da3290b7768bad61e8eb0daeaaf32f350a1403026fbe.m3u8?s=e97b43&id=82ae.m3u
+#EXTINF:-1 tvg-name="HUM MASALA HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",HUM MASALA HD
+https://go.skym3u.dev/live/d49c40/a9528d3cfc27ec3d6eef8ad39963a87d51f15335efb09a6f7a23f723b8f3b5ba656c02710a56f5f0c2cb9f9459f335841ecfec701ad9c3597217c7152fd3cd730d22bde702a688af04c2c48ee80f938b04cf442b3d72.m3u8?s=e97b43&id=82ae.m3u
 #EXTINF:-1 tvg-name="aur LIFE" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",aur LIFE
 http://124.109.47.101/hls/stream1.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Falak TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Falak TV
@@ -141,6 +145,8 @@ https://falak.rst.ae/index.m3u8#fb:M3U_World_4K
 https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Ary News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Al Jazeera
+https://go.skym3u.dev/live/d49c40/627fe59537d78ceffb304db60c50cdca09f4dfaebced135c160e95d61eaf2bdc45ddf1ba3ce4bf5613c0c33de063ae897f39f94eae39da6ad97bad85ab14f4e19ce304f71e2b14ff9ea52992a7e7ffee10bf68dd2274.m3u8?s=e97b43&id=82ae.m3u
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ZB CARTOON" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZB CARTOON
@@ -229,6 +235,12 @@ https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8#skym3u.dev
 https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Peace TV Bangla
 http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
+#EXTINF:-1 tvg-name="Makkah Live" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Makkah Live
+https://go.skym3u.dev/live/d49c40/39e9856a475c91a74892c4566d979628f27377fe471b73cf7c0a32edf239c741900f1c19a7a3a9aafe1beb471b8b38dbb6efc440bc72eb67976ccdfe024364b07181c49193e7350e72c33412a2ce41d4387bd3fb1489625970226c33b4f8dbe86c68bc2df7005dd4c8bf4ade928da997b23175cd8c1d011a59ca45f25e0e99f2af68b95826a25ddb14c81db4efc40187394860450902ef4504436ff87ae1d405d8cd9df0807c813ba4a8252cfc359f684a21a7b618530c3b637771aa123e667241c48239e61400b824125946.m3u8?s=e97b43&id=82ae.m3u
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Islamic TV
+https://go.skym3u.dev/live/d49c40/22c083a0730ee3bf5471a643f152498496a6f4dec633efa04d0435c03a40785d916bc16d64af4d20a825b090e9a746c9f9f2e967b7c9bea01948e7f0242a983c9af44d504557d49dd719c0a803c5285f0b236693389faadf14af9a596553232bd8519cfc68d29f968d0ce22e3ce35fa7e675cdb2017afd8221f896618071ef1bc824979520d72957448f14b582f6eb03b41a5d75bffe766635e7c4cc600fbbd4bcb666bbf90112f35d0b5e6065b0538f643bad7d47636f95dbab48ad52b1d4c5d99bb33e84275d3b004a8676ecdd9ee74c.m3u8?s=e97b43&id=82ae.m3u
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Al Quran Al Kareem TV
+https://go.skym3u.dev/live/d49c40/e805469063c3ac93f9b07712cff4d1cfc7aca2b9fbc1502357762b8f7d9057173c7a25604ba9892f5a8aea4b7bc60a528f9d60532b08d6c2bc0f852c7123396cd7edddd5088483379f99e8f8b2206bdd816b668e47ec51cb0d71dfb026a1fcc1b71f804049a06ca3ceb2f045e3234491e2d9a5.m3u8?s=e97b43&id=82ae.m3u
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
@@ -255,6 +267,10 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8#skym3u.de
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",TAPMAD
+https://go.skym3u.dev/live/d49c40/b51688a18a6d233b856f49b22bf8d546462490ae11c705ef395262bfd867669dda9438d6ddb400370452737c2a8495ddf884d9ee58aad81fba8e12087de7977a2479d2a1bc11a5ac12e3034627292f04f7f3908c1a4e87fe.m3u8?s=cc8e7f&id=xpmp.m3u
+#EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow TV
+https://go.skym3u.dev/live/d49c40/e363ad33eb436b18846c5472983f0634033e81dfdd351385029762bf33d6e9b53dbcf412ba91abc964cd1a68804a0c1a300a97bbf1bcf89a402cd049208e11b2d0bdb8466bffd36f7bf4.m3u8?s=cc8e7f&id=xpmp.m3u
 #EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",G Series Drama
@@ -303,3 +319,5 @@ https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 http://146.59.253.52:8080/hindihitshd/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="ARY Music" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",ARY Music
 http://31.43.191.85:8080/4241763327415375/f206ced7f9fb/23581?token=Q0FaWEpZFFsXBQIFUFcHBAEGU1RTVgFWUQcDBwNZAlNaAlAPAAQOWAYVGEZGFUdTUl9qWwIVAlNRBghVGENHQ10RbVBdEwxDDAEMUQBTFxoRRlxfAxUCUFUKA1cCVAIGAU8QSVBVFFtbQlgIGUNQTkdXR1wHW2cFB0VZB1FDCF5ND14VG15YPlFSWQVbBRcMEQMXHkReSxFACV4RWA0eEloKRktYRVNDD1lBCFlNF1VcR1tGFE4aW0BxdEYYQ1dITAZcSlBeWEMPFUAXF00XX0BtR1cVQ0oEA15VFhZbEAAaTxBUWElpAlpZWgFWFVxZXUEXCEQGGk1AXl8KXRVdQmcTW10bC1gUWVtJ#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Movies Select" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",Star Movies Select
+https://go.skym3u.dev/live/d49c40/620f429311ed5aaec9b0a3a59b7892d94098e51ab3024032abb61982e836c7018dba06c09615efcccee051499fce4a8661aa95bf2530a02fbd5e338fc5423ff28f60d2c20e9708e24ea5182f3ede281f2c.m3u8?s=cc8e7f&id=xpmp.m3u
