@@ -315,6 +315,8 @@ https://tvsen7.aynaott.com/Sports1/index.m3u8#fb:M3U_World_4K
 https://tvsen5.aynaott.com/willowhd/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ban Vs Pak" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Ban Vs Pak
+http://103.89.248.10:8082/T-SPORTS/index.m3u8
 #EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",G Series Drama
