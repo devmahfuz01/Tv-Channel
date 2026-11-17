@@ -72,11 +72,9 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="News 21" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",News 21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Somoy TV
-https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#fb:M3U_World_4K
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/1080/1080.m3u8?hdntl=Expires=1795027312~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkwZmFhMDEtODhjZi00NDI0LWIxYTctYTM1NjlkZjQwYTIxIn0~Signature=AZh99ZObLPyBOwfouwT2w8wbGUiQEO7B1XmTFLMq6V5CU4S47NuD2jN1SG-pa8by8CUcYUunK8Ckta2JMFS0WJLyea8B&nocache=1794940952842
 #EXTINF:-1 tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Star News
 http://103.135.253.32:8080/Star-News/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Channel 16
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Duronto TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Enter TV
@@ -87,8 +85,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#fb:M3U_World_4
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Matribhumi TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Matribhumi TV
 http://live.playmax.live/matribhumi/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="ME TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",ME TV
-https://iptvbd.live/metv1080/1080.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Rajdhani TV
 http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Channel 1
@@ -98,21 +94,23 @@ https://tvsen6.aynaott.com/channel52/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Global Television HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Global Television HD
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Independent TV
+https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/576/576.m3u8?hdntl=Expires=1795028505~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkwZmFhMDEtODhjZi00NDI0LWIxYTctYTM1NjlkZjQwYTIxIn0~Signature=AZh99ZPemzKQgU4F1yaQFCTFIOn7jRumkWaXSOvb7JWDcORfiYNEpFdRavmZYHODu3ijKODHSEjw98iOnJ6r2BnzHCEI&nocache=1794942244069
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Independent TV
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
+#EXTINF:-1 tvg-name="Probashi TV News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Probashi TV News
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee Bangla HD
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Colors Bangla HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",COLORS BANGLA
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 #EXTINF:-1 tvg-name="Sony Aath HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sony Aath HD
-https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sony Aath
-https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1794301227~Starts=1794297627~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=HoXbh6_oFXZ8r9QmAWq78Aohq5cspF5JeF16QE2YEBp39rA2ZzYY0AYCQmwTng-9-2wZFA8lbwJF4D7aFnEAAg
+http://27.124.71.27/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Jalsha Movies HD
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Colors
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Aakaash Aath" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Aakaash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Enter10 Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Enter10 Bangla HD
@@ -139,6 +137,14 @@ http://115.187.41.216:8080/hls/amardigital/index.m3u8#fb:M3U_World_4K
 https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Dangal TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Dangal TV
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee TV
+http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Umang" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum TV HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum TV HD
 https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum TV
@@ -163,16 +169,18 @@ https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Al Jazeera
 https://go.skym3u.dev/live/d49c40/627fe59537d78ceffb304db60c50cdca09f4dfaebced135c160e95d61eaf2bdc45ddf1ba3ce4bf5613c0c33de063ae897f39f94eae39da6ad97bad85ab14f4e19ce304f71e2b14ff9ea52992a7e7ffee10bf68dd2274.m3u8?s=e97b43&id=82ae.m3u
-#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZooMoo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="ZB CARTOON" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZB CARTOON
 https://server.zillarbarta.com/zbcatun/video.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZooMoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Cartoon Network HD+" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Cartoon Network HD+
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="WOW Kidz" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="Pogo" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Power Kids TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",Power Kids TV
@@ -272,8 +280,6 @@ https://go.skym3u.dev/live/d49c40/22c083a0730ee3bf5471a643f152498496a6f4dec633ef
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Al Quran Al Kareem TV
 https://go.skym3u.dev/live/d49c40/e805469063c3ac93f9b07712cff4d1cfc7aca2b9fbc1502357762b8f7d9057173c7a25604ba9892f5a8aea4b7bc60a528f9d60532b08d6c2bc0f852c7123396cd7edddd5088483379f99e8f8b2206bdd816b668e47ec51cb0d71dfb026a1fcc1b71f804049a06ca3ceb2f045e3234491e2d9a5.m3u8?s=e97b43&id=82ae.m3u
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
-http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8#skym3u.dev
@@ -281,18 +287,16 @@ https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chu
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",PTV Sports
-https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow Sports
-http://27.124.71.27/Willow_Extra/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",TAPMAD
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="WILLOW 2" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",WILLOW 2
+https://tvsen7.aynaott.com/Sports1/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="LALIGA (Real Madrid TV)" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",LALIGA (Real Madrid TV)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",PTV Sports
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",TAPMAD
-https://go.skym3u.dev/live/d49c40/b51688a18a6d233b856f49b22bf8d546462490ae11c705ef395262bfd867669dda9438d6ddb400370452737c2a8495ddf884d9ee58aad81fba8e12087de7977a2479d2a1bc11a5ac12e3034627292f04f7f3908c1a4e87fe.m3u8?s=cc8e7f&id=xpmp.m3u
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow TV
 https://go.skym3u.dev/live/d49c40/e363ad33eb436b18846c5472983f0634033e81dfdd351385029762bf33d6e9b53dbcf412ba91abc964cd1a68804a0c1a300a97bbf1bcf89a402cd049208e11b2d0bdb8466bffd36f7bf4.m3u8?s=cc8e7f&id=xpmp.m3u
 #EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",beIN Sports 1
@@ -307,10 +311,6 @@ http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts#fb:M3U_World_4K
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78382.ts#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="beIN SPORTS 6" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",beIN SPORTS 6
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78383.ts#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",TAPMAD
-https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="WILLOW 2" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",WILLOW 2
-https://tvsen7.aynaott.com/Sports1/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Willow Cricbuzz" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow Cricbuzz
 https://tvsen5.aynaott.com/willowhd/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",Willow Sports
