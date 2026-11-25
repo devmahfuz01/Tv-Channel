@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="​ATN News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",​ATN News
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Bangladesh 🇧🇩",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#skym3u.dev
@@ -265,37 +265,37 @@ https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist/amg00426-l
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Wild Flix Hindi" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Documentary 🌍",Wild Flix Hindi
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Madani Bangla Channel" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Madani Bangla Channel
+#EXTINF:-1 tvg-name="Madani Bangla Channel" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Madani Bangla Channel
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Azan TV
+#EXTINF:-1 tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Saudi Quran
+#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Madina Live" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Madina Live
+#EXTINF:-1 tvg-name="Madina Live" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Quran" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Quran
+#EXTINF:-1 tvg-name="Quran" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Quran
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3#skym3u.dev
-#EXTINF:-1 tvg-name="Al Quran Radio" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Al Quran Radio
+#EXTINF:-1 tvg-name="Al Quran Radio" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3#skym3u.dev
-#EXTINF:-1 tvg-name="MADANI TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",MADANI TV
+#EXTINF:-1 tvg-name="MADANI TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",MADANI TV
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Arihant TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Arihant TV
+#EXTINF:-1 tvg-name="Arihant TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Aastha" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Aastha
+#EXTINF:-1 tvg-name="Aastha" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Aastha
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Islam TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Islam TV
+#EXTINF:-1 tvg-name="Islam TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Islam TV
 https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Deen TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Deen TV
+#EXTINF:-1 tvg-name="Deen TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Deen TV
 https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Peace TV Bangla
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Islamic TV
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Islamic TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
-#EXTINF:-1 tvg-name="Iqra Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Iqra Bangla
+#EXTINF:-1 tvg-name="Iqra Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="ISLAM বাংলা" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",ISLAM বাংলা
+#EXTINF:-1 tvg-name="ISLAM বাংলা" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",ISLAM বাংলা
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Iqraa TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="​Religious 🕌",Iqraa TV
+#EXTINF:-1 tvg-name="Iqraa TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Religious 🕌",Iqraa TV
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Sports 🏀",T Sports HD
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
@@ -405,43 +405,353 @@ http://31.43.191.85:8080/4241763327415375/f206ced7f9fb/23581?token=Q0FaWEpZFFsXB
 https://go.skym3u.dev/live/d49c40/620f429311ed5aaec9b0a3a59b7892d94098e51ab3024032abb61982e836c7018dba06c09615efcccee051499fce4a8661aa95bf2530a02fbd5e338fc5423ff28f60d2c20e9708e24ea5182f3ede281f2c.m3u8?s=cc8e7f&id=xpmp.m3u
 #EXTINF:-1 tvg-name="Star Gold Thrills" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Movie & Song 🎬",Star Gold Thrills
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="The Vvaan (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/eIGFapCm8OV6K8Zgd8qsySd4AOK.jpg" group-title="FTP Movie Server 📂🎬",The Vvaan (2026)
-https://drive.usercontent.google.com/download?id=1dRqMc9-xuCTw5H12uhBX55LahQ98niTS&export=download&confirm=t#.mp4
-#EXTINF:-1 tvg-name="Raakaasa (2026)" tvg-logo="https://image.tmdb.org/t/p/original/j3tT3VPfO1AAlj3frhslqbsGMEQ.jpg" group-title="FTP Movie Server 📂🎬",Raakaasa (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/HrMvgbiy/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=38c751a79f46f4a52bc2ce8019574e9e49413cb56b5bd9fe39a56bba15cd15b0
-#EXTINF:-1 tvg-name="Jailer 2 (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_hotnhu1794423176.jpg" group-title="FTP Movie Server 📂🎬",Jailer 2 (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/ibPcypLu/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec7e4745e87ffaad62fc79c9e3d701a26aa273a1651fd2099ac08fb0122bbaf7
-#EXTINF:-1 tvg-name="I'm Game (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_ttxo1788524756.jpg" group-title="FTP Movie Server 📂🎬",I'm Game (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/84VAXztX/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=af722c77553aa40b8c37352e0c4334ba626fb19856e353af61b2a5f5ae6f107a
-#EXTINF:-1 tvg-name="Ranabaali (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_j8ggg51794510078.jpg" group-title="FTP Movie Server 📂🎬",Ranabaali (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/P2KAw6iE/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=dfe03cfe0eb172d9082187f54bd6c7bb5445fce9eade98881f964c3e84aa15bb
-#EXTINF:-1 tvg-name="Raghu Dakat (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mV3N83F2bTzbaOKF7HEHTeA6UcL.jpg" group-title="FTP Movie Server 📂🎬",Raghu Dakat (2025)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/joxzVATN/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=5173cfc3c71c2ff1bf2240e5a80167a76a657cec824aa2607dc276fe39b86a8b
-#EXTINF:-1 tvg-name="Zombeid (2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMzMwMmQtZTFhYS00ZTBjLWI3ODQtYjZhNzlmYTdhZjFjXkEyXkFqcGc@._V1_.jpg" group-title="FTP Movie Server 📂🎬",Zombeid (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/2s3vmaPi/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d46b1cc5b29cca573a4ea7607db659ab5630d79bd6ef5ed500c988f767f2b55
-#EXTINF:-1 tvg-name="418 (2026)" tvg-logo="https://image.tmdb.org/t/p/original/aNPNi3qUdAzKdtd1fKwMdUdyUcz.jpg" group-title="FTP Movie Server 📂🎬",418 (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/cW2tzmup/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=994d9a210dd89199c613473e68e2e21460b0acff3987b34ead7ac3cc45d0e790
-#EXTINF:-1 tvg-name="Parasakthi (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_nui41768069804.jpg" group-title="FTP Movie Server 📂🎬",Parasakthi (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/Ev5gH4mX/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c19125f9ed319ce9e591caa54adc0b5c464d7a475ba80dcddcfd3b4bd2921d7
-#EXTINF:-1 tvg-name="Blind Game (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_isgx1p1794356952.jpg" group-title="FTP Movie Server 📂🎬",Blind Game (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/ef56ww7C/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=af610d2e0aa25b72d4130471fbafb6b79f7e53834a9e9d67073474aa11bbb2fe
-#EXTINF:-1 tvg-name="The Dark Heaven (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_k5hzkx1793316505.webp" group-title="FTP Movie Server 📂🎬",The Dark Heaven (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/Gbm3c6VY/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=6586f4b255009c61b4a89c0bacd08f409861713d9c1d471622b231cfb2ba1cdc
-#EXTINF:-1 tvg-name="Mahendragiri Vaaraahi (2026)" tvg-logo="https://image.tmdb.org/t/p/original/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg" group-title="FTP Movie Server 📂🎬",Mahendragiri Vaaraahi (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/AMyskZ6b/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=4e478429c727374af2847ce1151d7b7adc110c7507b33cb50cdfccb38cf69d0f
-#EXTINF:-1 tvg-name="Oh..! Sukumari (2026)" tvg-logo="https://image.tmdb.org/t/p/original/jTJ7ML9wtt4AGaJHCNxFqwU4MJI.jpg" group-title="FTP Movie Server 📂🎬",Oh..! Sukumari (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/NBF5iSTT/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb2e73e507e142405601f21598683f35f726ccb59aa8987b4d75d0aae45b130b
-#EXTINF:-1 tvg-name="Thella Kaagitham (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_v778gm1793478302.webp" group-title="FTP Movie Server 📂🎬",Thella Kaagitham (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/8W3sxixv/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b3a70be67d4a02976dcb0bda534c74b084141ef152b23ebc13558309a178ee5
-#EXTINF:-1 tvg-name="Love Story Abhimanyu Ki (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_lx0v151793473234.avif" group-title="FTP Movie Server 📂🎬",Love Story Abhimanyu Ki (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/hAVzNMpT/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=311ac15d7a443e0b2eed94cc0740b02074736c22d46713ca2dbf0e7c5dcbe364
-#EXTINF:-1 tvg-name="Kammara Sambhavam (2018)" tvg-logo="https://image.tmdb.org/t/p/original/m7E6l7OfuDfbCbnFpW0QluQhdhS.jpg" group-title="FTP Movie Server 📂🎬",Kammara Sambhavam (2018)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/CdZ5dDGn/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=eb6779df7d6b5b92de7795f5730b293062ec6343518094f69b18c5e3c03c7f9b
-#EXTINF:-1 tvg-name="Prasanna Vadanam (2024)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_edmggh1793440278.jpg" group-title="FTP Movie Server 📂🎬",Prasanna Vadanam (2024)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/ABfB3ZVE/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=4d125f641e4f0b21a651cce1134742ac495f99bc0b4ca5664eff954936205259
-#EXTINF:-1 tvg-name="Comrade Kalyan (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_qy5qsi1793304201.jpg" group-title="FTP Movie Server 📂🎬",Comrade Kalyan (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/aasctvF7/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8485d60c5eb1e48027a90bdb9f7a820f5d5162d8e59cf0e71a971ca6bffbd4d
-#EXTINF:-1 tvg-name="Sigma (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_a6nxc91793300159.webp" group-title="FTP Movie Server 📂🎬",Sigma (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/g45w6FbW/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=e862546fc9b6939861ca031f974bcf595ef807bf2743de8e9b25b6bd0efe931f
-#EXTINF:-1 tvg-name="Immortal (2026)" tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_y0m4031793279108.jpg" group-title="FTP Movie Server 📂🎬",Immortal (2026)
-https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/7G35xuhD/main?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=1263075efb7cf901e6a8e7d5b46a1f60f100236b64a13b63f8679cce8422ee61
+#EXTINF:-1 tvg-name="Pratap" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Pratap
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Pratap%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Pratap%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Hunger Games: Sunrise on the Reaping" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Hunger Games: Sunrise on the Reaping
+https://ftp.ctgfun.com/English/The%20Hunger%20Games%20Sunrise%20On%20The%20Reaping%20%282026%29%20English%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/The%20Hunger%20Games%20Sunrise%20On%20The%20Reaping%20%282026%29%20English%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Raid" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Raid
+https://ftp.ctgfun.com/Others/Asian%20Movie/The%20Raid%20%282026%29%20Hindi%20Chinese%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Raid%20%282026%29%20Hindi%20Chinese%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Perfect Liars" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Perfect Liars
+https://ftp.ctgfun.com/Others/European%20Movies/Perfect%20Liars%20AKA%20Perfectos%20Mentirosos%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Perfect%20Liars%20AKA%20Perfectos%20Mentirosos%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Our Girls" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Our Girls
+https://ftp.ctgfun.com/Others/European%20Movies/Our%20Girls%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Our%20Girls%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Marrow" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Marrow
+https://ftp.ctgfun.com/English/Marrow%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Marrow%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Mitti De Putt" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Mitti De Putt
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Mitti%20De%20Putt%20%282026%29%20Punjabi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Mitti%20De%20Putt%20%282026%29%20Punjabi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Drones" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Drones
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Drones%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drones%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Haiku" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Haiku
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Haiku%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Haiku%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="418" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",418
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/418%20%282026%29%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/418%20(2026)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Judaa" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Judaa
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Judaa%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Judaa%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Anbil Avan" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Anbil Avan
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Anbil%20Avan%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anbil%20Avan%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Marked Men: Rule + Shaw" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Marked Men: Rule + Shaw
+https://ftp.ctgfun.com/English/Marked%20Men-Rule%2BShaw%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Marked%20Men-Rule%2BShaw%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="#Cult" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",#Cult
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Cult%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Cult%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Last Dinner" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Last Dinner
+https://ftp.ctgfun.com/Others/Asian%20Movie/Last%20Meal%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Last%20Meal%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Madden" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Madden
+https://ftp.ctgfun.com/English/Madden%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Madden%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Guarding Stars" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Guarding Stars
+https://ftp.ctgfun.com/English/Guarding%20Stars%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Guarding%20Stars%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Dulhaniya Le Aaeegi" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Dulhaniya Le Aaeegi
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Dulhaniya%20Le%20Aaeegi%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dulhaniya%20Le%20Aaeegi%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Kiku Chiranjeevi" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Kiku Chiranjeevi
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kiku%20Chiranjeevi%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kiku%20Chiranjeevi%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Fight Against Evil 3" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Fight Against Evil 3
+https://ftp.ctgfun.com/Others/Asian%20Movie/Fight%20Against%20Evil%203%20%282026%29%20Hindi%20Chinese%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Fight%20Against%20Evil%203%20%282026%29%20Hindi%20Chinese%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Zip Wire" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Zip Wire
+https://ftp.ctgfun.com/English/Zip%20Wire%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Zip%20Wire%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Premada Oorali" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Premada Oorali
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Premada%20Oorali%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Premada%20Oorali%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Night Silence" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Night Silence
+https://ftp.ctgfun.com/Others/European%20Movies/Night%20Silence%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Night%20Silence%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Scent Of Pho" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Scent Of Pho
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/ASIAN/Mui%20Pho%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mui%20Pho%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Rules of the Game" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Rules of the Game
+https://movie.ctgfun.com/disk1/English%20Movies/2026/Rules%20Of%20The%20Game%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Rules%20Of%20The%20Game%20(2026)%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Assassin Within" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Assassin Within
+https://movie.ctgfun.com/disk1/English%20Movies/2026/Assassin%20Within%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Assassin%20Within%20(2026)%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Neil Young: Heart of Gold" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Neil Young: Heart of Gold
+https://movie.ctgfun.com/disk1/English%20Movies/2006/Neil%20Young%20Heart%20Of%20Gold%20%282006%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Neil%20Young%20Heart%20Of%20Gold%20(2006)%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Money No Enough 3" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Money No Enough 3
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/ASIAN/Money%20No%20Enough%203%20%282024%29%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Money%20No%20Enough%203%20%282024%29%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="O.M: Operation Mole" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",O.M: Operation Mole
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/O%20M-Operation%20Mole%20%282026%29%20Hindi%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/O%20M-Operation%20Mole%20%282026%29%20Hindi%20Tamil%20Telugu%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Winter of the Crow" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Winter of the Crow
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/EUROPEAN/Winter%20Of%20The%20Crow%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Winter%20Of%20The%20Crow%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Pradhama Drishtiya Kuttakkar" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Pradhama Drishtiya Kuttakkar
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Pradhama%20Drishtiya%20Kuttakkar%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pradhama%20Drishtiya%20Kuttakkar%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Under Your Feet" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Under Your Feet
+https://ftp.ctgfun.com/Others/European%20Movies/Under%20Your%20Feet%20%282025%29%20Hindi%20Spanish%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Under%20Your%20Feet%20%282025%29%20Hindi%20Spanish%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Cold Wallet" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Cold Wallet
+https://movie.ctgfun.com/disk1/English%20Movies/2025/Cold%20Wallet%20%282024%29%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Cold%20Wallet%20(2024)%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Patakka Guddiyan" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Patakka Guddiyan
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Patakka%20Guddiyan%20%282026%29%20Punjabi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Patakka%20Guddiyan%20%282026%29%20Punjabi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Racharikam" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Racharikam
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Racharikam%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Racharikam%20%282025%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Brawlers" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Brawlers
+https://ftp.ctgfun.com/Others/European%20Movies/Brawlers%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Brawlers%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Beast" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Beast
+https://ftp.ctgfun.com/English/The%20Beast%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Beast%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Insecta" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Insecta
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/EUROPEAN/Insecta%20%282026%29%20Spanish%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Insecta%20%282026%29%20Spanish%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Street Fighter" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Street Fighter
+https://movie.ctgfun.com/disk1/English%20Movies/2026/Street%20Fighter%20%282026%29%20Hindi%20Telugu%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Street%20Fighter%20(2026)%20Hindi%20Telugu%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Parasakthi" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Parasakthi
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Parasakthi%20UNCENSORED%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Parasakthi%20UNCENSORED%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Lucky Man" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Lucky Man
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Lucky%20Man%20%282023%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Lucky%20Man%20%282023%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Software Sudheer" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Software Sudheer
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Software%20Sudheer%20%282019%29%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Software%20Sudheer%20(2019)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Appan" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Appan
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Appan%20%282022%29%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Appan%20(2022)%20Hindi%20Malayalam%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Never Surrender" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Never Surrender
+https://ftp.ctgfun.com/Others/Asian%20Movie/Never%20Surrender%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Never%20Surrender%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Prem Keetanu" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Prem Keetanu
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Prem%20Keetanu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prem%20Keetanu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Heartland" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Heartland
+https://ftp.ctgfun.com/English/Heartland%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heartland%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Third Murder" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Third Murder
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/The%20Third%20Murder%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Third%20Murder%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Cold Storage" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Cold Storage
+https://movie.ctgfun.com/disk1/English%20Movies/2026/Cold%20Storage%20%282026%29%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Cold%20Storage%20(2026)%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Vibe" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Vibe
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Vibe%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Vibe%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Last Man in Tower" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Last Man in Tower
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Last%20Man%20In%20Tower%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Heart of the Beast" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Heart of the Beast
+https://movie.ctgfun.com/disk1/English%20Movies/2026/Heart%20of%20the%20Beast%20%282026%29%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heart%20of%20the%20Beast%20(2026)%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Daayra" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Daayra
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Daayra%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Daayra%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ramayana: Rise of a Legend" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ramayana: Rise of a Legend
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Ramayana%20%282026%29%20Hindi%20Tamil%20Telugu%20Malayalam%20Kannada%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Ramayana%20%282026%29%20Hindi%20Tamil%20Telugu%20Malayalam%20Kannada%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Supernowa" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Supernowa
+https://ftp.ctgfun.com/English/Supernowa%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Supernowa%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ralph's Perfekt Christmas" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ralph's Perfekt Christmas
+https://ftp.ctgfun.com/English/Ralphs%20Perfekt%20Christmas%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ralphs%20Perfekt%20Christmas%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Cycle of Love" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Cycle of Love
+https://ftp.ctgfun.com/English/The%20Cycle%20Of%20Love%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Cycle%20Of%20Love%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Sardaarji 3" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Sardaarji 3
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sardaar%20Ji-3%20%282025%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sardaar%20Ji-3%20%282025%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Blind Game" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Blind Game
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Blind%20Game%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Blind%20Game%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Babystar" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Babystar
+https://ftp.ctgfun.com/Others/European%20Movies/Babystar%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Babystar%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Universe Designed" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Universe Designed
+https://ftp.ctgfun.com/English/Universe%20Designed%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Universe%20Designed%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Atonement" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Atonement
+https://ftp.ctgfun.com/English/Atonement%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Atonement%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ignition" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ignition
+https://ftp.ctgfun.com/English/Ignition%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ignition%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Kankaan De Ohle" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Kankaan De Ohle
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Kankaan%20De%20Ohle%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kankaan%20De%20Ohle%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Intern" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Intern
+https://ftp.ctgfun.com/Others/Asian%20Movie/Inteon%20%282026%29%20Korean%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Inteon%20%282026%29%20Korean%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Train" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Train
+https://ftp.ctgfun.com/English/The%20Train%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Train%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Oldest Person in the World" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Oldest Person in the World
+https://ftp.ctgfun.com/English/The%20Oldest%20Person%20In%20The%20World%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Oldest%20Person%20In%20The%20World%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="l'onde mystérieuse" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",l'onde mystérieuse
+https://ftp.ctgfun.com/Others/European%20Movies/Kyma%20Londe%20Mysterieuse%20%282026%29%20French%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kyma%20Londe%20Mysterieuse%20%282026%29%20French%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Is the German Public Aware of This?" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Is the German Public Aware of This?
+https://ftp.ctgfun.com/Others/European%20Movies/Kein%20Land%20Fur%20Niemand%20-%20Abschottung%20Eines%20Einwanderungslandes%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kein%20Land%20Fur%20Niemand%20-%20Abschottung%20Eines%20Einwanderungslandes%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Spices and Lies" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Spices and Lies
+https://ftp.ctgfun.com/Others/European%20Movies/La%20Petite%20Cuisine%20De%20Mehdi%20%282025%29%20French%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/La%20Petite%20Cuisine%20De%20Mehdi%20%282025%29%20French%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Falling" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Falling
+https://ftp.ctgfun.com/English/Falling%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Falling%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Special Op: Rent-a-Cop" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Special Op: Rent-a-Cop
+https://ftp.ctgfun.com/English/Special%20Op%20Rent-a-Cop%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Special%20Op%20Rent-a-Cop%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Udaala" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Udaala
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Udaala%20%282025%29%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Udaala%20(2025)%20Hindi%20Kannada%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="The Floaters" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Floaters
+https://ftp.ctgfun.com/English/The%20Floaters%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Floaters%20%282025%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Wishing Well Road" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Wishing Well Road
+https://ftp.ctgfun.com/English/Wishing%20Well%20Road%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Wishing%20Well%20Road%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Portrait of an Artist: Stephen Curry" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Portrait of an Artist: Stephen Curry
+https://ftp.ctgfun.com/English/Portrait%20Of%20An%20Artist%20Stephen%20Curry%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Portrait%20Of%20An%20Artist%20Stephen%20Curry%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ninho: Fame Ain’t Worth It" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ninho: Fame Ain’t Worth It
+https://ftp.ctgfun.com/Others/European%20Movies/Ninho%20Fame%20Aint%20Worth%20It%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ninho%20Fame%20Aint%20Worth%20It%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Other Mommy" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Other Mommy
+https://movie.ctgfun.com/disk1/English%20Movies/2026/Other%20Mommy%20%282026%29%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Other%20Mommy%20(2026)%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Viruman" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Viruman
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Viruman%20%282022%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Viruman%20%282022%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="WWE Crown Jewel 2026" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",WWE Crown Jewel 2026
+https://data.ctgfun.com/disk11/disk11/optional/WWE%20Crown%20Jewel%20(2026)%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/WWE%20Crown%20Jewel%20%282026%29%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Dark Heaven" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Dark Heaven
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/The%20Dark%20Heaven%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Dark%20Heaven%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Avedon" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Avedon
+https://ftp.ctgfun.com/English/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avedon%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Scene" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Scene
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Scene%20%282026%29%20Tamil%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Scene%20%282026%29%20Tamil%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Mahendragiri Vaaraahi" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Mahendragiri Vaaraahi
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Mahendragiri%20Vaaraahi%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mahendragiri%20Vaaraahi%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Musk" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Musk
+https://ftp.ctgfun.com/English/Musk%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Musk%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Odyssey" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Odyssey
+https://movie.ctgfun.com/disk1/English%20Movies/2026/The%20Odyssey%20(2026)%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d/The%20Odyssey%20(2026)%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="Jailer 2" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Jailer 2
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Jailer-2%20%282026%29%20Hindi%20Tamil%20720p%20HDRip%20x264%20ESub%20%5BDDN%5D/Jailer-2%20%282026%29%20Hindi%20Tamil%20720p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Oh..! Sukumari" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Oh..! Sukumari
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Oh%20Sukumari%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Oh%20Sukumari%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Possible Love" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Possible Love
+https://ftp.ctgfun.com/Others/Asian%20Movie/Possible%20Love%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Possible%20Love%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Frequency of Fear" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Frequency of Fear
+https://ftp.ctgfun.com/Others/European%20Movies/Frequency%20of%20Fear%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Frequency%20of%20Fear%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The 100" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The 100
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/The%20100%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20100%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Nooru Kodi Vaanavil" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Nooru Kodi Vaanavil
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Nooru%20Kodi%20Vaanavil%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nooru%20Kodi%20Vaanavil%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Vvaan Force of the Forrest" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Vvaan Force of the Forrest
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/The%20Vvaan%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Vvaan%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Last Man in Tower" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Last Man in Tower
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Last%20Man%20In%20Tower%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Last%20Man%20In%20Tower%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="I'm Game" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",I'm Game
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Im%20Game%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Im%20Game%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Heart of the Beast" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Heart of the Beast
+https://ftp.ctgfun.com/English/Heart%20Of%20The%20Beast%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Heart%20Of%20The%20Beast%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Dilwali Diwali" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Dilwali Diwali
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Dilwali%20Diwali%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dilwali%20Diwali%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Meesaya Murukku 2" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Meesaya Murukku 2
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Meesaya%20Murukku%202%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Meesaya%20Murukku%202%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Hunt" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Hunt
+https://ftp.ctgfun.com/English/The%20Hunt%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Hunt%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Savage Prey" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Savage Prey
+https://ftp.ctgfun.com/English/Savage%20Prey%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Savage%20Prey%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Model Citizen" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Model Citizen
+https://ftp.ctgfun.com/English/Model%20Citizen%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Model%20Citizen%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="A Ghost at Gilmore House" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",A Ghost at Gilmore House
+https://ftp.ctgfun.com/English/A%20Ghost%20At%20Gilmore%20House%20%282027%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Ghost%20At%20Gilmore%20House%20%282027%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Bhai Tera Star Hai" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Bhai Tera Star Hai
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Bhai%20Tera%20Star%20Hai%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhai%20Tera%20Star%20Hai%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ramayana: Rise of a Legend" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ramayana: Rise of a Legend
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ramayana%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Ramayana%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Last Bullet" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Last Bullet
+https://ftp.ctgfun.com/Others/European%20Movies/Last%20Bullet%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Last%20Bullet%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Mongoose" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Mongoose
+https://ftp.ctgfun.com/English/The%20Mongoose%20%282026%29%201080p%20WEBRip%20x265%20%5BDDN%5D/The%20Mongoose%20%282026%29%201080p%20WEBRip%20x265%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Pyre" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Pyre
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Pyre%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Pyre%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Anakapalli" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Anakapalli
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Anakapalli%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anakapalli%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Your Mother Your Mother Your Mother" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Your Mother Your Mother Your Mother
+https://ftp.ctgfun.com/English/Your%20Mother%20Your%20Mother%20Your%20Mother%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Your%20Mother%20Your%20Mother%20Your%20Mother%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Kick" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Kick
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kick%20%282023%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kick%20%282023%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Scorpion" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Scorpion
+https://ftp.ctgfun.com/English/Scorpion%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Scorpion%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Primetime" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Primetime
+https://ftp.ctgfun.com/English/Primetime%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Primetime%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Beware Boiúna" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Beware Boiúna
+https://ftp.ctgfun.com/English/Boiuna%20Legend%20Of%20The%20Amazon%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Boiuna%20Legend%20Of%20The%20Amazon%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Punisher: One Last Kill" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Punisher: One Last Kill
+https://ftp.ctgfun.com/English/The%20Punisher-One%20Last%20Kill%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Punisher-One%20Last%20Kill%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Jhaad Phoonk" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Jhaad Phoonk
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Jhaad%20Phoonk%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jhaad%20Phoonk%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Aadarsha Kutumbam House-AK 47" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Aadarsha Kutumbam House-AK 47
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Aadarsha%20Kutumbam%20House-AK%2047%20%282026%29%20Telugu%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Aadarsha%20Kutumbam%20House-AK%2047%20%282026%29%20Telugu%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="A Wicked Muse" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",A Wicked Muse
+https://ftp.ctgfun.com/English/A%20Wicked%20Muse%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Wicked%20Muse%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Zombeid" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Zombeid
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/ZOMBEID%20%282026%29%20Urdu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/ZOMBEID%20%282026%29%20Urdu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Meethe Mein Kya Hai" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Meethe Mein Kya Hai
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Meethe%20mein%20Kya%20Hai%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Meethe%20mein%20Kya%20Hai%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Strangers: Chapter 3" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Strangers: Chapter 3
+https://movie.ctgfun.com/disk1/English%20Movies/2026/The%20Strangers%20Chapter%203%20(2026)%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d/The%20Strangers%20Chapter%203%20(2026)%20Hindi%20English%201080p%20BluRay%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="The Birthday Gift" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Birthday Gift
+https://ftp.ctgfun.com/Others/European%20Movies/The%20Birthday%20Gift%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Birthday%20Gift%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Collision Course" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Collision Course
+https://ftp.ctgfun.com/Others/European%20Movies/Collision%20Course%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Collision%20Course%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Apocalypse Z: New World" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Apocalypse Z: New World
+https://ftp.ctgfun.com/Others/European%20Movies/Apocalypse%20Z%20New%20World%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Apocalypse%20Z%20New%20World%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Sigma" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Sigma
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sigma%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sigma%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Immortal" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Immortal
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Immortal%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Immortal%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Bol Bhavein Na Bol" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Bol Bhavein Na Bol
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Bol%20Bhavein%20Na%20Bol%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bol%20Bhavein%20Na%20Bol%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Don't Trouble the Trouble" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Don't Trouble the Trouble
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Dont%20Trouble%20the%20Trouble%20%282026%29%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dont%20Trouble%20the%20Trouble%20%282026%29%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Baththa" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Baththa
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Baththa%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Baththa%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Jigris" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Jigris
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Jigris%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jigris%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Mirzapur: The Movie" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Mirzapur: The Movie
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Mirzapur%20The%20Movie%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mirzapur%20The%20Movie%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="All That We Never Were" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",All That We Never Were
+https://ftp.ctgfun.com/Others/European%20Movies/All%20That%20We%20Never%20Were%20%282026%29%20Hindi%20Spanish%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/All%20That%20We%20Never%20Were%20%282026%29%20Hindi%20Spanish%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Drive – The Pretenders" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Drive – The Pretenders
+https://ftp.ctgfun.com/Others/European%20Movies/Drive%20The%20Pretenders%20%282026%29%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drive%20The%20Pretenders%20%282026%29%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Hopeu" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Hopeu
+https://ftp.ctgfun.com/Others/Asian%20Movie/Hopeu%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hopeu%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Sense and Sensibility" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Sense and Sensibility
+https://ftp.ctgfun.com/English/Sense%20And%20Sensibility%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sense%20And%20Sensibility%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ali G: Who Iz I?" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ali G: Who Iz I?
+https://ftp.ctgfun.com/English/Ali%20G%20Who%20Iz%20I%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ali%20G%20Who%20Iz%20I%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Forgotten Island" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Forgotten Island
+https://ftp.ctgfun.com/English/Forgotten%20Island%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Forgotten%20Island%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Verity" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Verity
+https://ftp.ctgfun.com/English/Verity%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Verity%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Cycle" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Cycle
+https://ftp.ctgfun.com/English/The%20Cycle%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Cycle%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Hive" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Hive
+https://ftp.ctgfun.com/English/Hive%20%282026%29%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D/Hive%20%282026%29%201080p%20BluRay%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Bad Apples" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Bad Apples
+https://ftp.ctgfun.com/English/Bad%20Apples%20(2025)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bad%20Apples%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Dog Stars" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Dog Stars
+https://ftp.ctgfun.com/English/The%20Dog%20Stars%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Dog%20Stars%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Little Thomas" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Little Thomas
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Little%20Thomas%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Super Hit" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Super Hit
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Super%20Hit%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Super%20Hit%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Sippiyan Sitare" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Sippiyan Sitare
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Sippiyan%20Sitare%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sippiyan%20Sitare%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Murder In Melbourne" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Murder In Melbourne
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Melbourne%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Melbourne%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="418" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",418
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/418%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/418%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Tum Mere Ho" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Tum Mere Ho
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Tum%20Mere%20Ho%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Tum%20Mere%20Ho%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Tu Hai Meri Kiran" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Tu Hai Meri Kiran
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Tu%20Hai%20Meri%20Kiran%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Tu%20Hai%20Meri%20Kiran%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Doosra" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Doosra
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Doosra%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Doosra%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Clean Hands" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Clean Hands
+https://ftp.ctgfun.com/English/Clean%20Hands%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Clean%20Hands%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Gajab Raat" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Gajab Raat
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Gajab%20Raat%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gajab%20Raat%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Shaun the Sheep: The Beast of Mossy Bottom" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Shaun the Sheep: The Beast of Mossy Bottom
+https://ftp.ctgfun.com/English/Shaun%20The%20Sheep%20The%20Beast%20Of%20Mossy%20Bottom%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Shaun%20The%20Sheep%20The%20Beast%20Of%20Mossy%20Bottom%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Avaraachan & Sons" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Avaraachan & Sons
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Avarachan%20and%20Sons%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Avarachan%20and%20Sons%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Clayface" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Clayface
+https://ftp.ctgfun.com/English/ClayFace%20%282026%29%20Hindi%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/ClayFace%20%282026%29%20Hindi%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Surviving Hurricane Otis" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Surviving Hurricane Otis
+https://ftp.ctgfun.com/Others/European%20Movies/Surviving%20Hurricane%20Otis%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Surviving%20Hurricane%20Otis%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Udta Teer" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Udta Teer
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Udta%20Teer%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Udta%20Teer%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Sumo Didi" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Sumo Didi
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Sumo%20Didi%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sumo%20Didi%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Jeena Dil Se" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Jeena Dil Se
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Jeena%20Dil%20Se%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jeena%20Dil%20Se%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Cerita Lila" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Cerita Lila
+https://ftp.ctgfun.com/Others/Asian%20Movie/Cerita%20Lila%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Cerita%20Lila%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Great Punjab Robbery" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Great Punjab Robbery
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/The%20Great%20Punjab%20Robbery%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Great%20Punjab%20Robbery%20%282026%29%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Dorothy" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Dorothy
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Dorothy%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dorothy%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Dhoomakethu" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Dhoomakethu
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Dhoomakethu%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dhoomakethu%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Cocoons" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Cocoons
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Cocoons%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Cocoons%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ghost in the Cell" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ghost in the Cell
+https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/ASIAN/Ghost%20in%20the%20Cell%20%282026%29%20Hindi%20Indonesian%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ghost%20in%20the%20Cell%20%282026%29%20Hindi%20Indonesian%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Paradise" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Paradise
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/The%20Paradise%20(2026)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d/The%20Paradise%20(2026)%20Hindi%20Telugu%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="The Weight" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Weight
+https://ftp.ctgfun.com/English/The%20Weight%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Weight%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Tiny Fugitives" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Tiny Fugitives
+https://ftp.ctgfun.com/English/Tiny%20Fugitives%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Tiny%20Fugitives%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="The Florist" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",The Florist
+https://ftp.ctgfun.com/English/The%20Florist%20(2026)%201080p%20BluRay%20x264%20%5BDDN%5D/The%20Florist%20%282026%29%201080p%20BluRay%20x264%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Clap" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Clap
+https://movie.ctgfun.com/disk4/South%20Indian%20Movies/Clap%20(2022)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Clap%20(2022)%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-name="By Any Means" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",By Any Means
+https://ftp.ctgfun.com/English/By%20Any%20Means%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/By%20Any%20Means%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Ranabaali" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Ranabaali
+https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Ranabaali%20(2026)%20Telugu%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Ranabaali%20%282026%29%20Telugu%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Street Fighter" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Street Fighter
+https://ftp.ctgfun.com/English/Street%20Fighter%20(2026)%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Street%20Fighter%20%282026%29%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Tenzing" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Tenzing
+https://ftp.ctgfun.com/English/Tenzing%20(2026)%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Tenzing%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Aryabhatt Ka Zero" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Aryabhatt Ka Zero
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Aryabhatt%20Ka%20Zero%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aryabhatt%20Ka%20Zero%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Sacrifice" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Sacrifice
+https://ftp.ctgfun.com/English/Sacrifice%20(2026)%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sacrifice%20%282026%29%20Hindi%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-name="Prahaar" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="FTP Movie Server 📂🎬",Prahaar
+https://ftp.ctgfun.com/Indian/Hindi%20Movies/Prahaar%20(2026)%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Prahaar%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
