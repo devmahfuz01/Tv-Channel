@@ -103,53 +103,51 @@ https://go.skym3u.dev/live/aac4/504b859d022dc1cf269f534a5d9db85d42d68250fd5f721f
 https://go.skym3u.dev/live/aac4/98f61bce643fee1cd88e895d63c84e85a5dedfd1510c7be52dcfad145366cceb2e49805047a78b28e91a330bcab4bb70618ee9488d4b45027007230c8321056b90d292e856af1d9b001822c7cc2b6e61bd0a5260789e1eb10c46e1b72042836250fc.m3u8?s=ad4f&id=zbqaoy.m3u
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_001658.png" group-title="Bangladesh 🇧🇩",Channel 9
 https://go.skym3u.dev/live/aac4/4fcd143c49c0bc7d87fc0c3937c88dc2e3642dc814859f61a5f3c099eeab8662dd926717cb6fb284973c0cbaf28b9c2d505f9f5b3cfb799755cd506e0cdecd875b3b1f3737f8d31522662344fddd11bc449682623d5645fe02563fb607f0.m3u8?s=ad4f&id=zbqaoy.m3u
-#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Star Jalsha HD
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093204.png" group-title="India 🇮🇳",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee Bangla HD
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093335.png" group-title="India 🇮🇳",Zee Bangla HD
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",COLORS BANGLA
+#EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093522.png" group-title="India 🇮🇳",COLORS BANGLA
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
-#EXTINF:-1 tvg-name="Sony Aath HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sony Aath HD
+#EXTINF:-1 tvg-name="Sony Ahat HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093711.png" group-title="India 🇮🇳",Sony Ahat HD
 http://27.124.71.27/Sony_Aath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sony Aath
-https://toffee.aliflaila.live/channel/25.m3u8
-#EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Jalsha Movies HD
+#EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093417.png" group-title="India 🇮🇳",Jalsha Movies HD
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Colors
+#EXTINF:-1 tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093614.png" group-title="India 🇮🇳",Colors
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Aakaash Aath" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Aakaash Aath
+#EXTINF:-1 tvg-name="Aakaash Aath" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093815.png" group-title="India 🇮🇳",Aakaash Aath
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Enter10 Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Enter10 Bangla HD
+#EXTINF:-1 tvg-name="Enter10 Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093925.png" group-title="India 🇮🇳",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sun Bangla
+#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094017.png" group-title="India 🇮🇳",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="Sananda Tv" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sananda Tv
+#EXTINF:-1 tvg-name="Sananda Tv" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094111.png" group-title="India 🇮🇳",Sananda Tv
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Sangeet Bangla
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094159.png" group-title="India 🇮🇳",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Tara TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Tara TV
+#EXTINF:-1 tvg-name="Tara TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094314.png" group-title="India 🇮🇳",Tara TV
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee 24 Ghanta
+#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094401.png" group-title="India 🇮🇳",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Ruposhi Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Ruposhi Bangla
+#EXTINF:-1 tvg-name="Ruposhi Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094451.png" group-title="India 🇮🇳",Ruposhi Bangla
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Colors
+#EXTINF:-1 tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093614.png" group-title="India 🇮🇳",Colors
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
-#EXTINF:-1 tvg-name="Amar Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Amar Bangla
+#EXTINF:-1 tvg-name="Amar Bangla" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094532.png" group-title="India 🇮🇳",Amar Bangla
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Amar Digital TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Amar Digital TV
+#EXTINF:-1 tvg-name="Amar Digital TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094611.png" group-title="India 🇮🇳",Amar Digital TV
 http://115.187.41.216:8080/hls/amardigital/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Comedy Tadka" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Comedy Tadka
+#EXTINF:-1 tvg-name="Comedy Tadka" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094704.png" group-title="India 🇮🇳",Comedy Tadka
 https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Dangal TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Dangal TV
+#EXTINF:-1 tvg-name="Dangal TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094749.png" group-title="India 🇮🇳",Dangal TV
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",ABP Ananda
+#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094842.png" group-title="India 🇮🇳",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Zee TV
+#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_095133.png" group-title="India 🇮🇳",Zee TV
 http://41.205.93.154/ZEE-TV/index.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Umang" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Shemaroo Umang
+#EXTINF:-1 tvg-name="Shemaroo Umang" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_094938.png" group-title="India 🇮🇳",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="India 🇮🇳",Shemaroo TV
+#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_095043.png" group-title="India 🇮🇳",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum TV HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum TV HD
 https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
