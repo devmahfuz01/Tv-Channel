@@ -149,37 +149,29 @@ http://41.205.93.154/ZEE-TV/index.m3u8
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_095043.png" group-title="India 🇮🇳",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Hum TV HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum TV HD
+#EXTINF:-1 tvg-name="Hum TV Europe" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_110629.png" group-title="Pakistan 🇵🇰",Hum TV Europe
 https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
-#EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum TV
+#EXTINF:-1 tvg-name="Hum TV HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_104632.png" group-title="Pakistan 🇵🇰",Hum TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
-#EXTINF:-1 tvg-name="Hum Sitaray" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum Sitaray
+#EXTINF:-1 tvg-name="Hum Sitaray World" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_111220.png" group-title="Pakistan 🇵🇰",Hum Sitaray World
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="HUM SITARAY HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",HUM SITARAY HD
-https://go.skym3u.dev/live/d49c40/8e6b403c58681669c3d3fdf490111da95555acce227c32ea9d3f7d31c4e4cb19ea22e6ec169e99143f0ed1f1b82eb19335567c82180f4a17db37633313a3f7c5da3290b7768bad61e8eb0daeaaf32f350a1403026fbe.m3u8?s=e97b43&id=82ae.m3u
-#EXTINF:-1 tvg-name="Hum Masala" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Hum Masala
+#EXTINF:-1 tvg-name="Hum Masala" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_104842.png" group-title="Pakistan 🇵🇰",Hum Masala
 https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
-#EXTINF:-1 tvg-name="HUM MASALA HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",HUM MASALA HD
-https://go.skym3u.dev/live/d49c40/a9528d3cfc27ec3d6eef8ad39963a87d51f15335efb09a6f7a23f723b8f3b5ba656c02710a56f5f0c2cb9f9459f335841ecfec701ad9c3597217c7152fd3cd730d22bde702a688af04c2c48ee80f938b04cf442b3d72.m3u8?s=e97b43&id=82ae.m3u
-#EXTINF:-1 tvg-name="aur LIFE HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",aur LIFE HD
+#EXTINF:-1 tvg-name="aur LIFE HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_104925.png" group-title="Pakistan 🇵🇰",aur LIFE HD
 http://124.109.47.101/hls/stream1.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="aur LIFE" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",aur LIFE
-http://124.109.47.101/hls/stream1.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Falak TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Falak TV
+#EXTINF:-1 tvg-name="Falak TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_104959.png" group-title="Pakistan 🇵🇰",Falak TV
 https://falak.rst.ae/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="ARY Q TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",ARY Q TV
+#EXTINF:-1 tvg-name="ARY Q TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_105054.png" group-title="Pakistan 🇵🇰",ARY Q TV
 https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Ary News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Ary News
+#EXTINF:-1 tvg-name="Ary News" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_105132.png" group-title="Pakistan 🇵🇰",Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Al Jazeera
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_105212.png" group-title="Pakistan 🇵🇰",Al Jazeera
 https://go.skym3u.dev/live/d49c40/627fe59537d78ceffb304db60c50cdca09f4dfaebced135c160e95d61eaf2bdc45ddf1ba3ce4bf5613c0c33de063ae897f39f94eae39da6ad97bad85ab14f4e19ce304f71e2b14ff9ea52992a7e7ffee10bf68dd2274.m3u8?s=e97b43&id=82ae.m3u
-#EXTINF:-1 tvg-name="Falak TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Falak TV
-https://falak.rst.ae/index.m3u8
-#EXTINF:-1 tvg-name="Grace Network" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Grace Network
+#EXTINF:-1 tvg-name="Grace Network" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_105303.png" group-title="Pakistan 🇵🇰",Grace Network
 https://livecdn.live247stream.com/grace/tv/grace/stream2/chunks.m3u8
-#EXTINF:-1 tvg-name="Isaac TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",Isaac TV
+#EXTINF:-1 tvg-name="Isaac TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_105403.png" group-title="Pakistan 🇵🇰",Isaac TV
 https://livecdn.live247stream.com/isaac/tv/isaac/stream1/chunks.m3u8
-#EXTINF:-1 tvg-name="M Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Pakistan 🇵🇰",M Sports
+#EXTINF:-1 tvg-name="M Sports" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/PAK--Channel-Logo/refs/heads/main/20261127_105446.png" group-title="Pakistan 🇵🇰",M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ZB CARTOON" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/Picsart_26-11-06_12-13-56-929.png" group-title="Cartoon 🧑‍🎄",ZB CARTOON
 https://server.zillarbarta.com/zbcatun/video.m3u8#skym3u.dev
