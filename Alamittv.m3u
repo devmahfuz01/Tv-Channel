@@ -24,7 +24,7 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003630.png" group-title="Bangladesh 🇧🇩",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003816.png" group-title="Bangladesh 🇧🇩",RTV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8?wmsAuthSign=
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/20261126_232226.png" group-title="Bangladesh 🇧🇩",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_001256.png" group-title="Bangladesh 🇧🇩",Boishakhi TV
@@ -95,8 +95,6 @@ https://tvsen6.aynaott.com/Epm7WrFa/tracks-v1a1/mono.ts.m3u8
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_001658.png" group-title="Bangladesh 🇧🇩",Channel 9
 https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003816.png" group-title="Bangladesh 🇧🇩",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093204.png" group-title="India 🇮🇳",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093335.png" group-title="India 🇮🇳",Zee Bangla HD
@@ -104,7 +102,7 @@ https://tvsen6.aynaott.com/ZeeBangla/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093522.png" group-title="India 🇮🇳",COLORS BANGLA
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 #EXTINF:-1 tvg-name="Sony Ahat HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093711.png" group-title="India 🇮🇳",Sony Ahat HD
-http://27.124.71.27/Sony_Aath/tracks-v1a1/mono.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093417.png" group-title="India 🇮🇳",Jalsha Movies HD
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Colors" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093614.png" group-title="India 🇮🇳",Colors
