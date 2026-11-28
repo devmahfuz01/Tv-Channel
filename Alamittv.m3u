@@ -24,7 +24,7 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003630.png" group-title="Bangladesh 🇧🇩",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003816.png" group-title="Bangladesh 🇧🇩",RTV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8#skym3u.dev
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/Channel-logo/refs/heads/main/20261126_232226.png" group-title="Bangladesh 🇧🇩",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_001256.png" group-title="Bangladesh 🇧🇩",Boishakhi TV
@@ -91,12 +91,12 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003508.png" group-title="Bangladesh 🇧🇩",Nexus TV
 https://tvsen6.aynaott.com/Epm7WrFa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Asian TV NF" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_000904.png" group-title="Bangladesh 🇧🇩",Asian TV NF
-https://go.skym3u.dev/live/aac4/504b859d022dc1cf269f534a5d9db85d42d68250fd5f721f1f4be15b9ec3bf1d49320c3e741bf7b5d5b0f78d4491a2836f656f5ad219964fc7fce2af1314c182ee9cd0cdf06869431749e05b8d1499451136ec4fee4a49a08af544e91642a31949771ff9.m3u8?s=ad4f&id=zbqaoy.m3u
 #EXTINF:-1 tvg-name="Thikana" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_004053.png" group-title="Bangladesh 🇧🇩",Thikana
-https://go.skym3u.dev/live/aac4/98f61bce643fee1cd88e895d63c84e85a5dedfd1510c7be52dcfad145366cceb2e49805047a78b28e91a330bcab4bb70618ee9488d4b45027007230c8321056b90d292e856af1d9b001822c7cc2b6e61bd0a5260789e1eb10c46e1b72042836250fc.m3u8?s=ad4f&id=zbqaoy.m3u
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_001658.png" group-title="Bangladesh 🇧🇩",Channel 9
-https://go.skym3u.dev/live/aac4/4fcd143c49c0bc7d87fc0c3937c88dc2e3642dc814859f61a5f3c099eeab8662dd926717cb6fb284973c0cbaf28b9c2d505f9f5b3cfb799755cd506e0cdecd875b3b1f3737f8d31522662344fddd11bc449682623d5645fe02563fb607f0.m3u8?s=ad4f&id=zbqaoy.m3u
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/BD-Channel-logo/refs/heads/main/20261127_003816.png" group-title="Bangladesh 🇧🇩",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093204.png" group-title="India 🇮🇳",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/devmahfuz01/IND-Channel-Logo/refs/heads/main/20261127_093335.png" group-title="India 🇮🇳",Zee Bangla HD
